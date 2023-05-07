@@ -12,12 +12,12 @@
         "source": "C:\\Users\\daovi\\.gradle\\daemon\\7.5\\com.utm.loginpage.app-main-31:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\daovi\\.gradle\\daemon\\7.5\\com.utm.loginpage.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\daovi\\.gradle\\daemon\\7.5\\com.utm.loginpage.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
-    },
-    {
         "merged": "C:\\Users\\daovi\\.gradle\\daemon\\7.5\\com.utm.loginpage.app-merged_res-29:\\drawable_ic_twitter.xml.flat",
         "source": "C:\\Users\\daovi\\.gradle\\daemon\\7.5\\com.utm.loginpage.app-main-31:\\drawable\\ic_twitter.xml"
+    },
+    {
+        "merged": "C:\\Users\\daovi\\.gradle\\daemon\\7.5\\com.utm.loginpage.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\daovi\\.gradle\\daemon\\7.5\\com.utm.loginpage.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\daovi\\.gradle\\daemon\\7.5\\com.utm.loginpage.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",

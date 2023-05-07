@@ -18,6 +18,7 @@ drawable ic_twitter
 drawable loginbackground
 drawable switch_trcks
 drawable switch_tumbs
+id facebook
 id logInButton
 id logInLayout
 id password

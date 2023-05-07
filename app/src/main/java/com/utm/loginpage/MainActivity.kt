@@ -23,6 +23,9 @@ class MainActivity : AppCompatActivity() {
         val logInLayout = findViewById<LinearLayoutCompat>(R.id.logInLayout)
         val logInButton = findViewById<Button>(R.id.logInButton)
         val signUpButton = findViewById<Button>(R.id.signUpButton)
+        val signByFB = findViewById<Button>(R.id.facebook)
+        val signByGoogle = findViewById<Button>(R.id.google)
+        val signByTwitter = findViewById<Button>(R.id.twitter)
 
         signUp.setOnClickListener{
             signUp.background = resources.getDrawable(R.drawable.switch_trcks, null)
@@ -47,6 +50,16 @@ class MainActivity : AppCompatActivity() {
         signUpButton.setOnClickListener{
             Toast.makeText(this, "Sign up successfully!", Toast.LENGTH_SHORT).show()
         }
+        signByFB.setOnClickListener {
+            startActivity(Intent(this@MainActivity,NewActivity::class.java))
+        }
+        signByTwitter.setOnClickListener {
+            startActivity(Intent(this@MainActivity,NewActivity::class.java))
+        }
+        signByGoogle.setOnClickListener {
+            startActivity(Intent(this@MainActivity,NewActivity::class.java))
+        }
+
     }
 
 }

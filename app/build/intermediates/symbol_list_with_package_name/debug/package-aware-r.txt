@@ -2992,6 +2992,7 @@ id enterAlwaysCollapsed
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
+id facebook
 id fade
 id fill
 id fill_horizontal

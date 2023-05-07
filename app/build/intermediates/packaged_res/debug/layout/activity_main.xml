@@ -278,8 +278,9 @@
             android:layout_marginBottom="20dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
-            <androidx.appcompat.widget.AppCompatImageView
-                android:src="@drawable/ic_facebook"
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/facebook"
+                android:background="@drawable/ic_facebook"
                 android:layout_margin="10dp"
                 android:layout_width="35dp"
                 android:layout_height="35dp"/>
